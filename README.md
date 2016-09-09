@@ -2,7 +2,7 @@
 
 #### _{Brief description of application}, {Date of current version}_
 
-#### By _**Martin Cartledge**_
+#### By _**Ryan Loos**_
 
 ## Description
 
@@ -14,8 +14,13 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 * _Run composer install in Terminal_
 * _start a server in web directory (php -S localhost:8000)_
 * _change name of src file_
+* _change title of views page_
 
 _You must host this webpage locally_
+
+## Behavior Driven Development
+
+* _template_
 
 ## Known Bugs
 
@@ -23,16 +28,17 @@ _None yet_
 
 ## Support and contact details
 
-_Martin Cartledge: martincartledge@icloud.com_
+_Ryan Loos: Rloos289@gmail.com_
 
 ## Technologies Used
 
 _HTML,
-CSS,
-JS_
+PHP,
+TWIG 1.0,
+SILEX 1.1_
 
 ### License
 
 *This webpage is licensed under the GPL license.*
 
-Copyright (c) 2016 **_Martin Cartledge_**
+Copyright (c) 2016 **_Ryan Loos_**

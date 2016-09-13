@@ -1,11 +1,9 @@
 <?php
-    // class //////////
-    // {
-    //   private //////;
-    //
-    //     function __construct()
-    //     {
-    //
-    //     }
-    // }
+    class Template
+    {
+        function testTemplate($input_title)
+        {
+          
+        }
+    }
 ?>

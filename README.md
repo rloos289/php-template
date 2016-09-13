@@ -14,7 +14,9 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 * _Run composer install in Terminal_
 * _start a server in web directory (php -S localhost:8000)_
 * _change name of src file_
-* _change title of views page_
+* _change name of tests file_
+* _change name of src file_
+* _change sourcing to tests_
 
 _You must host this webpage locally_
 

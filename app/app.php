@@ -22,8 +22,9 @@
     });
 
   //loads basic php
-    $app->get("/test", function() use ($app) {
-      return 'test variables here';
+    $app->post("/result", function() use ($app) {
+      $input = $_POST['user_input'];
+      return $input;
     });
 
     return $app;

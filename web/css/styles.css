@@ -6,3 +6,7 @@
   margin-left: 45%;
   margin-top: 20%;
 }
+
+#user_input {
+  display: none;
+}
